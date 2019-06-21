@@ -12,7 +12,7 @@
 
 
  ## Setup
- 1. Git clone this environment
+ 1. Git clone and prepare repository required
  2. Delete the .git (and setup your own git repo)
  3. Update the below files to your repective values
 
